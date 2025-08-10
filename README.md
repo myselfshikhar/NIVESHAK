@@ -63,7 +63,7 @@ Follow these steps to set up the project in your local environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jenil-Desai/NIVESHAK-clone.git
+   git clone https://github.com/myselfshikhar/NIVESHAK-clone.git
    ```
 2. Install dependencies for Backend, Frontend, and Dashboard.
 
