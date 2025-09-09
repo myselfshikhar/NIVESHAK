@@ -4,6 +4,14 @@ Welcome to **NIVESHAK **! This repository includes a  of the popular stock tradi
 
 ---
 
+
+## 🔴 Live Demo  
+
+👉 [Check out the live application her](https://niveshak-frontend.vercel.app/)  
+
+
+---
+
 ## 📑 Table of Contents
 
 1. [Overview](#-overview)
